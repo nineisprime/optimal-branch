@@ -1,4 +1,8 @@
 /**
+ * implements "getDirectedTree" function in Matlab
+ * author: Min Xu
+ *
+
 Usage in matlab:
 
 "weights" is (d--by--d) adjacency matrix

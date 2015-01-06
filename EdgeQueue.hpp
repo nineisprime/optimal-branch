@@ -1,3 +1,5 @@
+
+
 #ifndef EDGE_QUEUE_HPP
 #define EDGE_QUEUE_HPP
 
@@ -5,7 +7,11 @@
 #include <iostream>
 #include <cstdlib>
 
-/* NOTE:
+/*
+ * Simple Implementation of a List of Edges
+ * author: Min Xu 
+ *
+ * NOTE:
 
 each node (int) is associated with pointer to an EPQ
 

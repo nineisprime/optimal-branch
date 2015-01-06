@@ -6,6 +6,9 @@
 OptimumBranching.hpp
 optimumBranching
 
+author: Min Xu
+
+
 ASSUME: input graph is fully connected
 
 IN:

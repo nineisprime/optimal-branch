@@ -3,12 +3,15 @@
 
 //=================
 // Disjoint Set  data structure
+// author: Min Xu
 // 
 // SetElem* findSet(SetElem*);
+// path compression
 //
 // bool sameSet(SetElem* x, SetElem* y);
 //
 // void UnionSet(SetElem* x, SetELem* y);
+// union by rank. 
 //
 //=================
 
